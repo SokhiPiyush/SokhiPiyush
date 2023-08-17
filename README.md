@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="60px"> Hey, I'm Piyush Sokhi :-) </h1>
+<h1 align="center"><img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="60px"> Hey, I'm Piyush Sokhi </h1>
 <h3 align="center">I'm a software and web developer with a passion for learning and creating innovative solutions. Currently diving into the fascinating world of artificial intelligence and machine learning to enhance my skills and elevate my projects.</h3>
 <br>
 
