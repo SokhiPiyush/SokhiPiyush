@@ -28,10 +28,9 @@ As an artist and creator, I'm always pushing boundaries. Some projects I've work
 <h4>I have a knack for turning complex problems into elegant solutions. My goal is to create efficient and effective answers to challenges, blending technology with creativity.</h4>
 
 ## 📬 Get in Touch
-<br>
-<h3 align="left">## 📬 Get in Touch</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/piyush-sokhi-8585957809/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Piyush SOkhi" height="30" width="40" /></a>
+
 📧 Email: piyushsokhirps_cse20@its.edu.in, p.s.piyushsokhi@gmail.com
 <!-- 💼 LinkedIn: [Piyush Sokhi](https://www.linkedin.com/in/piyush-sokhi-8585957809/) -->
 
