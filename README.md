@@ -2,13 +2,26 @@
 <h3 align="center">I'm a software and web developer with a passion for learning and creating innovative solutions. Currently diving into the fascinating world of artificial intelligence and machine learning to enhance my skills and elevate my projects.</h3>
 <br>
 
-## 🚀 My Skills
+<h3 align="left">## 🚀 My Skills</h3>
 
 I'm proficient in a variety of technologies, including:
-- Programming Languages: C, C++, JavaScript, Python <i class="fas fa-code"></i> C, <i class="fas fa-code"></i> C++, <i class="fab fa-js"></i> JavaScript, <i class="fab fa-python"></i> Python
-- Web Development: Express.js, MongoDB, SQL, Mongoose, HTML5, CSS, EJS, jQuery, React.js, Tailwind, Sass  <i class="fab fa-node-js"></i> Node.js, <i class="fab fa-react"></i> React.js, <i class="fab fa-html5"></i> HTML5, <i class="fab fa-css3-alt"></i> CSS, <i class="fab fa-js"></i> jQuery, ...
-- Backend: <i class="fab fa-node-js"></i> Node.js, <i class="fas fa-database"></i> MongoDB, SQL, <i class="fab fa-git"></i> Git
-- Backend: Node.js, RESTful APIs, Git <i class="fab fa-node-js"></i> Node.js, <i class="fas fa-database"></i> MongoDB, SQL, <i class="fab fa-git"></i> Git
+- Programming Languages: C, C++, JavaScript, Python
+- Web Development: Express.js, MongoDB, SQL, Mongoose, HTML5, CSS, EJS, jQuery, React.js, Tailwind, Sass
+- Backend: Node.js, RESTful APIs, Git
+
+
+<p align="left"> 
+  <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
+  <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+   <a href="https://flask.palletsprojects.com/en/2.2.x/quickstart/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" alt="flask" width="40" height="40"/> </a> 
+  <a href="https://www.w3schools.com/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
+    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
+  <a href="https://www.w3schools.com/js/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="js" width="40" height="40"/> </a>
+   <a href="https://getbootstrap.com/docs/5.2/getting-started/introduction/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/> </a>
+  <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
+  <a href="https://opencv.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> 
+</p>
+<hr>
 
 
 ## 🔍 What I'm Up To
