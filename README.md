@@ -21,7 +21,7 @@ As an artist and creator, I'm always pushing boundaries. Some projects I've work
 - Algorithm Visualizer: A tool to visualize sorting techniques, turning complexity into art.
 - Startup Website: Designed a sleek website for a decorative lights startup.
 - SneakerHeads: A social media platform exclusively for sneaker enthusiasts.
-- Fight It UP: An app to connect users for friendly fights nearby.
+- KnockIn: An app to connect users for friendly fights nearby.
 
 ## 🎨 The Art of Problem-Solving
 
