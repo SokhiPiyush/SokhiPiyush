@@ -5,8 +5,8 @@
 <h3 align="left">## 🚀 My Skills</h3>
 
 I'm proficient in a variety of technologies, including:
-- Programming Languages: C, C++, JavaScript, Python
-- Web Development: Express.js, MongoDB, SQL, Mongoose, HTML5, CSS, EJS, jQuery, React.js, Tailwind, Sass
+- Programming Languages: C, C++, Java, JavaScript, Python
+- Web Development: Express.js, MongoDB, SQL, Mongoose, HTML5, CSS, EJS, jQuery, React.js, Angular, Tailwind, Sass
 - Backend: Node.js, RESTful APIs, Git
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,js,py,express,mongodb,mysql,html,css,nodejs,react,sass,tailwind,git)](https://skillicons.dev)
